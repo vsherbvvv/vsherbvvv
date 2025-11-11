@@ -22,7 +22,11 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql"/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/cinema4d"/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/telegram"/>
-  <img height="40" width="40" src="  "/>
+  <img height="40" width="40" src="photoshop-original.svg"/>
+  <img height="40" width="40" src="premierepro-original.svg"/>
+  <img height="40" width="40" src="aftereffects-original.svg"/>
+
+
 
 
 </span>
