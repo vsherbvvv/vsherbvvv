@@ -3,7 +3,7 @@
 ![a8d446aeaded108a90c974a5d6a356d9](https://github.com/user-attachments/assets/6f074c27-05d6-4ecb-8b99-2e194aada08e)
 
 ---
-## <code style = "color : green;">ABOUT ME:</code>
+## <code style = "color : green">ABOUT ME:</code>
 > - 💻 - *I'm currently studying at the Saint Petersburg State University of Industrial Technology and Design at the Faculty of Information Systems and Network Technologies* 
 > - 📍 - *I'm currently developing in many areas of information technology.*
 > - 💡 - *I plan to work on SOLIDITY or video editing and design in the future*
